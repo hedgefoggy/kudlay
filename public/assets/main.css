@@ -1,0 +1,18 @@
+body {
+    min-width: 320px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100%; /* 100vh для полной высоты экрана */
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    flex: 1; /* 1 auto;  Позволяет основному контенту занимать доступное пространство */
+}
