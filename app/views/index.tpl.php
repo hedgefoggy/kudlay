@@ -25,7 +25,7 @@
                             <a href="#">Go somewhere</a>
                         </div>
                     </div>
-
+f
                 </div>
 
                 <?php require VIEWS . '/incs/sidebar.php' ?>
